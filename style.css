@@ -31,6 +31,8 @@ article{
 }
 
 h2{
+    font-family: 'Unica One', cursive;
+    font-size: 26px;
     margin-top: 16px;
     margin-bottom: 16px;
 }
@@ -46,6 +48,24 @@ h2{
     margin-right: 10px;
 }
 
-.watch_container {
+.watch_container{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FDEFA6;
+    border-radius: 13px;
+    margin-left: 50px;
+    margin-right: 50px;
     margin-bottom: 15px;
+}
+
+p{
+    margin: 15px;
+}
+
+footer {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
